@@ -27,6 +27,6 @@ const user = {
 <p align="left">
 
  <img width="30" height="33" alt="image" src="https://github.com/user-attachments/assets/7e4dff96-fecd-4c77-9b4a-506b052671c7" />
- <i>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)</i>
+ <i>I’m always looking for new perspectives and creative collaborators. If you want to talk shop about film or code, let’s connect!</i>
 </p>
 <br clear="left"/>
