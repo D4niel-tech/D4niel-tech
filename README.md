@@ -1,11 +1,10 @@
 # Hi, I'm Daniel! 👋
 
-*Multimedia Arts Student at Mapua Malayan Colleges Laguna* 🎬
+*Multimedia Arts Student at Mapua Malayan Colleges Laguna* 
+
+![200w](https://github.com/user-attachments/assets/2bf00814-0716-460e-8017-84c31dacef1f)
+
 *Aspiring Filmmaker & Creative Coder* 🎞️
-
-<img width="350" height="175" alt="Screenshot 2026-02-06 105029" src="https://github.com/user-attachments/assets/33f819cf-d46d-42fc-abcd-3e807f7e585f" />
-
-*"One More Call" a Short Film by Daniel Gerodias*
 
 ---
 
@@ -24,3 +23,10 @@ const user = {
   },
   challenge: "I am blending the line between cinematic storytelling and technical code."
 }
+``` 
+<p align="left">
+
+ <img width="30" height="33" alt="image" src="https://github.com/user-attachments/assets/7e4dff96-fecd-4c77-9b4a-506b052671c7" />
+ <i>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)</i>
+</p>
+<br clear="left"/>
